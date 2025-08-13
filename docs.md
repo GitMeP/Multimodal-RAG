@@ -37,4 +37,7 @@ We'll need a **Multimodal LLM** — meaning a language model trained on both ima
 <p align="center">
   <img src="https://github.com/GitMeP/Multimodal-RAG/blob/26734e0ed69b94079d5c71e785aaf92635c66768/images/pdf_steps.png" alt="RAG Agent Flow" width="1200">
 </p>
-** CLIP - Contrastive Language Image Pre Training (Combination of Vision Transformer + Transformer)**
+
+**CLIP - Contrastive Language Image Pre-Training**
+*A combination of a Vision Transformer (ViT) and a Transformer.*
+
