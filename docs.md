@@ -30,6 +30,11 @@ We'll need a **Multimodal LLM** — meaning a language model trained on both ima
 * Standard LLMs (like GPT) are trained primarily on textual data.  
 
 **Examples of available Multimodal LLMs:**  
-- **OpenAI — GPT-4.1**  
-- **Google — Gemini Flash 2.5**
+- **OpenAI - GPT-4.1**  
+- **Google - Gemini Flash 2.5**
 
+### Steps to be followed to be able to solve the problem:
+Data Source - PDF (Text & Images)
+<p align="center">
+  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/26734e0ed69b94079d5c71e785aaf92635c66768/images/pdf_steps.png" alt="RAG Agent Flow" width="400">
+</p>
