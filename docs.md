@@ -8,7 +8,7 @@
 
   
 <p align="center">
-  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/rag_model.png" alt="RAG Agent Flow" width="500">
+  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/rag_model.png" alt="RAG Agent Flow" width="800">
 </p>
 
 
