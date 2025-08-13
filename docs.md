@@ -36,5 +36,5 @@ We'll need a **Multimodal LLM** — meaning a language model trained on both ima
 ### Steps to be followed to be able to solve the problem:
 Data Source - PDF (Text & Images)
 <p align="center">
-  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/26734e0ed69b94079d5c71e785aaf92635c66768/images/pdf_steps.png" alt="RAG Agent Flow" width="400">
+  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/26734e0ed69b94079d5c71e785aaf92635c66768/images/pdf_steps.png" alt="RAG Agent Flow" width="1200">
 </p>
