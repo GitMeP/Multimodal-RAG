@@ -25,7 +25,7 @@ We should be able to retrieve information based on both the **images** and **tex
 - For **image data**, we need to explore the available embedding methods.
 We also need to understand how retrieval will work when querying by **text** and querying by **image**.
 ---
-We'll need a **Multimodal LLM** — meaning a language model trained on both image and text data.  
+We'll need a **Multimodal LLM** - meaning a language model trained on both image and text data.  
 
 * Standard LLMs (like GPT) are trained primarily on textual data.  
 
@@ -39,5 +39,6 @@ We'll need a **Multimodal LLM** — meaning a language model trained on both ima
 </p>
 
 **CLIP - Contrastive Language Image Pre-Training**
+
 *A combination of a Vision Transformer (ViT) and a Transformer.*
 
