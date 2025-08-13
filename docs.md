@@ -24,3 +24,10 @@ We should be able to retrieve information based on both the **images** and **tex
 - For **text data**, we already have various types of embeddings available.
 - For **image data**, we need to explore the available embedding methods.
 We also need to understand how retrieval will work when querying by **text** and querying by **image**.
+---
+We'll need a Multimodal LLM => Meaning a LLM that is trained on both Image and Text data.
+* Normal LLMs (like GPT, etc) are trained on textual data.
+
+Available Multimodal LLMs:
+**OpenAI - GPT-4.1**
+**Google Gemini Flash-2.5**
