@@ -8,11 +8,11 @@
 
   
 <p align="center">
-  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/rag_model.png" alt="RAG Agent Flow" width="1000">
+  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/rag_model.png" alt="RAG Agent Flow" width="1200">
 </p>
 
 
-Lets Consider 1 use case where we have a document that could be a pdf consist of text and image data as a information.
+Let's consider 1 use case where we have a document that could be a PDF consisting of text and image data as information.
 <p align="center">
-  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/pdf_component.png" alt="RAG Agent Flow" width="1000">
+  <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/pdf_component.png" alt="RAG Agent Flow" width="600">
 </p>
