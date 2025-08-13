@@ -16,15 +16,11 @@ Let's consider 1 use case where we have a document that could be a PDF consistin
 <p align="center">
   <img src="https://github.com/GitMeP/Multimodal-RAG/blob/5d5ef342ea74bdbf12cde87f2335af068267eff3/images/pdf_component.png" alt="RAG Agent Flow" width="400">
 </p>
-So we should be able to retrieve this information based on the images and the text provided and generate the output, but we need to find how we can store the data (text + image) in a vector store.
 
-* As we know, we have different kinds of "Embedding" present for the "Text" data, but for the image data, we need to check.
-* Also, when we do a query wrt text and wrt to image, how is it gonna retrieve the information ??
-
-## Storing and Retrieving Text + Image Data
+### Storing and Retrieving Text + Image Data
 
 We should be able to retrieve information based on both the **images** and **text** provided, and then generate the output. However, we first need to determine how to store this combined data (**text + image**) in a vector store.
 
 - For **text data**, we already have various types of embeddings available.
 - For **image data**, we need to explore the available embedding methods.
-- We also need to understand how retrieval will work when querying by **text** versus querying by **image**.
+We also need to understand how retrieval will work when querying by **text** and querying by **image**.
