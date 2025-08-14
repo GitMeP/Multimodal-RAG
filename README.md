@@ -1,7 +1,7 @@
 
 # 📚 Multimodal RAG (Retrieval-Augmented Generation)
 
-This repository demonstrates a **Multimodal RAG pipeline** — combining **text** and **image** data for retrieval-augmented generation.  
+This repository demonstrates a **Multimodal RAG pipeline** - combining **text** and **image** data for retrieval-augmented generation.  
 It enables querying and generating responses based on **both textual and visual content** from documents.
 
 ---
@@ -19,9 +19,10 @@ Instead of only retrieving text embeddings, the system also processes **image em
 
 ## 📄 Files Description
 
-- **`doc.md`** → Concept document explaining the architecture, flow, and steps.  
-- **`multimodal_rag.ipynb`** → Code notebook to run the pipeline end-to-end.  
-- **`sample_file.pdf`** → PDF with text + images for testing.  
+- **`docs.md`** → Concept document explaining the architecture, flow, and steps.  
+- **`Multimodal_RAG.ipynb`** → Code notebook to run the pipeline end-to-end.  
+- **`test.pdf`** → PDF with text + images for testing.
+- **`requirments.txt`** - Requiremnts to run the ipynb file.
 
 ---
 
