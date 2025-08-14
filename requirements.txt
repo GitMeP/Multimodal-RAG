@@ -1,0 +1,6 @@
+fitz
+tools
+langchain
+langchain_community
+faiss-cpu
+langchain-openai
